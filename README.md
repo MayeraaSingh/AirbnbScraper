@@ -3,6 +3,10 @@
 A full-stack application for scraping and displaying Airbnb listings with a modern, responsive UI.
 
 ## Screenshots
+(https://github.com/user-attachments/assets/9ddb9d29-0158-4411-b7f1-1e24b9ad8062)
+
+(https://github.com/user-attachments/assets/c653e926-29b2-4985-a732-db6bff91abf4)
+
 
 ## Project Architecture
 
@@ -99,7 +103,7 @@ AirbnbScraper/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MayeraaSingh/AirbnbScraper.git
    cd AirbnbScraper
    ```
 
